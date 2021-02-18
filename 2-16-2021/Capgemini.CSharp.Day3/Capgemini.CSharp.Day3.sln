@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capgemini.CSharp.Day3", "Capgemini.CSharp.Day3\Capgemini.CSharp.Day3.csproj", "{56AAF4BD-3AA1-44EC-AC1B-DE90DD201BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56AAF4BD-3AA1-44EC-AC1B-DE90DD201BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AAF4BD-3AA1-44EC-AC1B-DE90DD201BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AAF4BD-3AA1-44EC-AC1B-DE90DD201BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AAF4BD-3AA1-44EC-AC1B-DE90DD201BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0C2932A-1CEB-44E5-8ADC-D8487E506640}
+	EndGlobalSection
+EndGlobal
