@@ -1,0 +1,7 @@
+D:\Capgemini docs\Module1\codes\Capgemini.CSharp.Day4\Capgemini.CSharp.Day4\obj\Debug\Capgemini.CSharp.Day4.csprojAssemblyReference.cache
+D:\Capgemini docs\Module1\codes\Capgemini.CSharp.Day4\Capgemini.CSharp.Day4\obj\Debug\Capgemini.CSharp.Day4.csproj.CoreCompileInputs.cache
+D:\Capgemini docs\Module1\codes\Capgemini.CSharp.Day4\Capgemini.CSharp.Day4\bin\Debug\Capgemini.CSharp.Day4.exe.config
+D:\Capgemini docs\Module1\codes\Capgemini.CSharp.Day4\Capgemini.CSharp.Day4\bin\Debug\Capgemini.CSharp.Day4.exe
+D:\Capgemini docs\Module1\codes\Capgemini.CSharp.Day4\Capgemini.CSharp.Day4\bin\Debug\Capgemini.CSharp.Day4.pdb
+D:\Capgemini docs\Module1\codes\Capgemini.CSharp.Day4\Capgemini.CSharp.Day4\obj\Debug\Capgemini.CSharp.Day4.exe
+D:\Capgemini docs\Module1\codes\Capgemini.CSharp.Day4\Capgemini.CSharp.Day4\obj\Debug\Capgemini.CSharp.Day4.pdb
