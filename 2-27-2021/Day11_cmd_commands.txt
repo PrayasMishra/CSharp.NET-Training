@@ -1,0 +1,5 @@
+add dll to Global Assembly Cache:
+gacutil /i NameOfDllFile.dll
+
+create strong name key:
+sn -k NameOfStrongName.snk
